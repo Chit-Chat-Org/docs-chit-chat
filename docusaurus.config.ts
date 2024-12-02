@@ -9,14 +9,14 @@ const config: Config = {
   favicon: 'img/logo.png',
 
   // Set the production url of your site here
-  url: 'https://chit-chat.fun',
+  url: 'https://chit-chat-org.github.io/',
   // Set the /<baseUrl>/ pathname under which your site is served
   // For GitHub pages deployment, it is often '/<projectName>/'
   baseUrl: '/',
 
   // GitHub pages deployment config.
   // If you aren't using GitHub pages, you don't need these.
-  organizationName: 'chit-chat-org', // Usually your GitHub org/user name.
+  organizationName: 'Chit-Chat-Org', // Usually your GitHub org/user name.
   projectName: 'docs-chit-chat', // Usually your repo name.
 
   onBrokenLinks: 'throw',
