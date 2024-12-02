@@ -1,6 +1,6 @@
 # Website
 
-This website is built using [Docusaurus](https://docusaurus.io/), a modern static website generator.
+This website is built by [Apurv Jha](https://github.com/apurvjha123), a modern static website generator.
 
 ### Installation
 

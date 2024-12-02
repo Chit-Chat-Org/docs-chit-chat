@@ -1,13 +1,12 @@
 import {themes as prismThemes} from 'prism-react-renderer';
 import type {Config} from '@docusaurus/types';
-import type * as Preset from '@docusaurus/preset-classic';
 
 // This runs in Node.js - Don't use client-side code here (browser APIs, JSX...)
 
 const config: Config = {
   title: 'Chit Chat',
   tagline: 'Chatbot integration made easy.',
-  favicon: 'img/favicon.ico',
+  favicon: 'img/logo.png',
 
   // Set the production url of your site here
   url: 'https://chit-chat.fun',
@@ -52,12 +51,12 @@ const config: Config = {
   ],
 
   themeConfig: {
-    image: 'img/docusaurus-social-card.jpg',
+    image: 'img/chit-chat.png',
     navbar: {
       title: 'Chit Chat',
       logo: {
         alt: 'Chit Chat Logo',
-        src: 'img/logo.svg',
+        src: 'img/chit-chat.png',
       },
       items: [
         {
